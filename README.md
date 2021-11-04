@@ -1,5 +1,5 @@
 # Automatic_tides_NIWA
-Scripts for automatic download of NIWA tide forecast.
+Scripts for automatic download of NIWA tide forecast, New Zealand.
 No support is provided.
 
 Each script (4) has its own description, please read it 
