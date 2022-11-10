@@ -12,7 +12,7 @@ This is a modification of the "super simple" script to fetch the tide data from 
 
  *   Notice that each free API key has a daily limit download.
 
- *   If you have a valid php environment all you need to do is put your apikey into the script, cd to an empty directory and run in bash terminal
+ *   If you have a valid php environment (with an installed php version 7.4, php7.4-curl)  all you need to do is put your apikey into the script, cd to an empty directory and run in bash terminal
  *
  *   php 1retrievetides.php
  *	 
